@@ -3,7 +3,7 @@
 
 ## 🚀 Que haremos en este repositorio?
 
-Aquí los profesores suben el material y la solución de los ejercicios del material. Cada carpeta de módulo consta de 3 carpetas:
+Aquí los profesores suben el material y la solución de los ejercicios del material despues de cada clase. Cada carpeta de módulo consta de 3 carpetas:
 
 - La solución de los ejercicios del material (gitbook)
 - Los Jupyter notebooks del material que también están disponibles en gitbook
