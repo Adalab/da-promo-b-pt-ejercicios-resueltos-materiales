@@ -3,10 +3,14 @@
 
 ## 🚀 Que haremos en este repositorio?
 
+Aquí los profesores suben el material y la solución de los ejercicios del material. Cada carpeta de módulo consta de 3 carpetas:
 
-Al igual que el repositorio de ejercicios del clase, destinaremos este espacio en los materiales! asi podran vosotros misma repasar las veces que quieran! (sigo creyendo que Github es lo mas!) 😄 
+- La solución de los ejercicios del material (gitbook)
+- Los Jupyter notebooks del material que también están disponibles en gitbook
+- La solución de los ejercicios dentro de los Jupyter notebooks del material (usados para programación en pareja a partir del módulo 2)
 
 
-## Entendiendo la estructura del repositorio
 
-A diferencia del repositorio de sus ejercicios, este repositorio quedara conformado por las carpetas de los modulos, y en cada uno de ellas podran encontrar los ejercicios! 
+## En este repositorio, solo los profesores suben archivos.
+
+
